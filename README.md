@@ -2,17 +2,4 @@
 
 ## Description
 
-
-## Installation
-- Install MongoDB onto your computer using https://docs.mongodb.com/manual/installation/.
-- Install dependencies `npm init` and `npm i mongoose`
-- Use `npm start` to launch the app!
-
-## Heroku Depoyment
-
-
-## Built With
-
-* IndexDB
-* NoSQL
-* Express.js
+A budget tracker that allows users to add and subtract expenses helping to keep track of their budget. This application can be even be used offline and once there's an internet connection, the total will be updated.
